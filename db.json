@@ -1,0 +1,315 @@
+{
+  "hotels": [
+    {
+      "id": "h1",
+      "title": "Ocean Breeze Resort",
+      "description": "A peaceful beachside resort with sea-facing rooms, infinity pool, and fresh seafood restaurant. Perfect for family vacation.",
+      "price": 4500,
+      "latitude": 15.2993,
+      "longitude": 74.124,
+      "rating": 4.5,
+      "facilities": [
+        "Free WiFi",
+        "Swimming Pool",
+        "Bar",
+        "AC",
+        "Bonfire"
+      ],
+      "image": "https://images.unsplash.com/photo-1566073771259-6a8506099945?w=800&q=80"
+    },
+    {
+      "id": "h2",
+      "title": "Mountain View Inn",
+      "description": "Cozy hilltop inn surrounded by tea gardens. Wake up to misty mountains and enjoy a warm cup of local tea on the balcony.",
+      "price": 2800,
+      "latitude": 11.4102,
+      "longitude": 76.695,
+      "rating": 4.2,
+      "facilities": [
+        "Free WiFi",
+        "Gym",
+        "AC"
+      ],
+      "image": "https://images.unsplash.com/photo-1582719508461-905c673771fd?w=800&q=80"
+    },
+    {
+      "id": "h3",
+      "title": "City Light Hotel",
+      "description": "Modern business hotel in the heart of the city. Walking distance to metro, shopping malls, and top restaurants.",
+      "price": 3200,
+      "latitude": 13.0827,
+      "longitude": 80.2707,
+      "rating": 4,
+      "facilities": [
+        "Free WiFi",
+        "AC",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1551882547-ff40c63fe5fa?w=800&q=80"
+    },
+    {
+      "id": "h4",
+      "title": "Heritage Palace Stay",
+      "description": "A restored 200-year-old palace offering royal suites, traditional courtyard dining, and cultural evening performances.",
+      "price": 6500,
+      "latitude": 26.9124,
+      "longitude": 75.7873,
+      "rating": 4.9,
+      "facilities": [
+        "Free WiFi",
+        "Swimming Pool",
+        "Bar",
+        "AC",
+        "Bonfire"
+      ],
+      "image": "https://images.unsplash.com/photo-1564501049412-61c2a3083791?w=800&q=80"
+    },
+    {
+      "id": "h5",
+      "title": "Green Valley Eco Lodge",
+      "description": "Eco-friendly lodge built with natural materials. Surrounded by forest trails, perfect for nature lovers and bird watchers.",
+      "price": 1800,
+      "latitude": 10.0889,
+      "longitude": 77.0595,
+      "rating": 3.8,
+      "facilities": [
+        "Free WiFi",
+        "Bonfire"
+      ],
+      "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&q=80"
+    },
+    {
+      "id": "h6",
+      "title": "Lake Pearl Retreat",
+      "description": "Serene lakeside retreat with private cottages, boating, and bonfire evenings. Ideal for couples and honeymooners.",
+      "price": 5200,
+      "latitude": 24.5854,
+      "longitude": 73.7125,
+      "rating": 4.7,
+      "facilities": [
+        "Free WiFi",
+        "Swimming Pool",
+        "AC",
+        "Bonfire"
+      ],
+      "image": "https://images.unsplash.com/photo-1520250497591-112f2f40a3f4?w=800&q=80"
+    },
+    {
+      "id": "h7",
+      "title": "Sunset Bay Villa",
+      "description": "Luxury private villa with a rooftop pool and panoramic sunset views. Includes personal chef and butler service.",
+      "price": 8900,
+      "latitude": 15.4909,
+      "longitude": 73.8278,
+      "rating": 5,
+      "facilities": [
+        "Free WiFi",
+        "Swimming Pool",
+        "Bar",
+        "AC",
+        "Gym"
+      ],
+      "image": "https://images.unsplash.com/photo-1611892440504-42a792e24d32?w=800&q=80"
+    },
+    {
+      "id": "h8",
+      "title": "Budget Comfort Stay",
+      "description": "Clean and affordable rooms for budget travelers. Free Wi-Fi, 24/7 reception, and central location near the bus stand.",
+      "price": 1200,
+      "latitude": 9.9252,
+      "longitude": 78.1198,
+      "rating": 3.5,
+      "facilities": [
+        "Free WiFi",
+        "AC"
+      ],
+      "image": "https://images.unsplash.com/photo-1590490360182-c33d57733427?w=800&q=80"
+    },
+    {
+      "id": "h9",
+      "title": "Royal Orchid Suites",
+      "description": "Elegant suites with modern amenities, a rooftop restaurant, and a fully equipped fitness center. Perfect for business and leisure.",
+      "price": 5800,
+      "latitude": 19.076,
+      "longitude": 72.8777,
+      "rating": 4.6,
+      "facilities": [
+        "Free WiFi",
+        "Gym",
+        "AC",
+        "Bar"
+      ],
+      "image": "https://picsum.photos/id/1040/800/600"
+    },
+    {
+      "id": "h10",
+      "title": "Desert Oasis Camp",
+      "description": "Experience the thrill of desert camping with luxury tents, camel safaris, and traditional folk music under the stars.",
+      "price": 3500,
+      "latitude": 26.2389,
+      "longitude": 73.0243,
+      "rating": 4.3,
+      "facilities": [
+        "Free WiFi",
+        "Bonfire",
+        "AC"
+      ],
+      "image": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?w=800&q=80"
+    },
+    {
+      "id": "h11",
+      "title": "The Grand Riverside",
+      "description": "A luxurious riverside property offering stunning water views, a spa, and an award-winning multi-cuisine restaurant.",
+      "price": 7200,
+      "latitude": 25.3176,
+      "longitude": 82.9739,
+      "rating": 4.8,
+      "facilities": [
+        "Free WiFi",
+        "Swimming Pool",
+        "Bar",
+        "AC",
+        "Gym"
+      ],
+      "image": "https://picsum.photos/id/1067/800/600"
+    },
+    {
+      "id": "h12",
+      "title": "Hilltop Harmony Resort",
+      "description": "A tranquil resort nestled in the Western Ghats, offering panoramic valley views, nature walks, and organic farm-to-table dining.",
+      "price": 4100,
+      "latitude": 13.3409,
+      "longitude": 74.7421,
+      "rating": 4.4,
+      "facilities": [
+        "Free WiFi",
+        "Bonfire",
+        "AC"
+      ],
+      "image": "https://picsum.photos/id/1044/800/600"
+    },
+    {
+      "id": "h13",
+      "title": "Urban Boutique Hotel",
+      "description": "A stylish boutique hotel in the city center with uniquely designed rooms, a trendy cafe, and a rooftop bar.",
+      "price": 4800,
+      "latitude": 12.9716,
+      "longitude": 77.5946,
+      "rating": 4.1,
+      "facilities": [
+        "Free WiFi",
+        "Bar",
+        "AC",
+        "Gym"
+      ],
+      "image": "https://picsum.photos/id/1057/800/600"
+    },
+    {
+      "id": "h14",
+      "title": "Forest Canopy Resort",
+      "description": "Experience nature up close with treehouse villas, guided jungle safaris, and a peaceful ambiance.",
+      "price": 6000,
+      "latitude": 20,
+      "longitude": 78,
+      "rating": 4.7,
+      "facilities": [
+        "Free WiFi",
+        "Swimming Pool",
+        "Bonfire"
+      ],
+      "image": "https://picsum.photos/id/1015/800/600"
+    },
+    {
+      "id": "h15",
+      "title": "Sunny Sands Beach Resort",
+      "description": "Relax on the golden sands, enjoy beach volleyball, and dine at our oceanfront restaurant. Perfect for a sunny getaway.",
+      "price": 3800,
+      "latitude": 15,
+      "longitude": 73.8,
+      "rating": 4.2,
+      "facilities": [
+        "Free WiFi",
+        "Swimming Pool",
+        "Bar",
+        "AC"
+      ],
+      "image": "https://picsum.photos/id/1016/800/600"
+    },
+    {
+      "id": "h16",
+      "title": "The Boutique Haveli",
+      "description": "A beautifully restored haveli offering a glimpse into royal history, with traditional decor and modern comforts.",
+      "price": 5500,
+      "latitude": 26.9,
+      "longitude": 75.8,
+      "rating": 4.6,
+      "facilities": [
+        "Free WiFi",
+        "AC",
+        "Bar"
+      ],
+      "image": "https://picsum.photos/id/1018/800/600"
+    },
+    {
+      "id": "h17",
+      "title": "Riverside Inn",
+      "description": "A charming inn located right by the river, offering peaceful views, a cozy fireplace, and a riverside deck.",
+      "price": 2500,
+      "latitude": 13,
+      "longitude": 80,
+      "rating": 3.9,
+      "facilities": [
+        "Free WiFi",
+        "AC"
+      ],
+      "image": "https://picsum.photos/id/1019/800/600"
+    },
+    {
+      "id": "h18",
+      "title": "Peak Panorama Lodge",
+      "description": "Perched high in the mountains, this lodge offers breathtaking views, a warm fireplace, and guided hiking tours.",
+      "price": 7500,
+      "latitude": 11,
+      "longitude": 77,
+      "rating": 4.8,
+      "facilities": [
+        "Free WiFi",
+        "Bonfire",
+        "AC",
+        "Gym"
+      ],
+      "image": "https://picsum.photos/id/1020/800/600"
+    },
+    {
+      "id": "h19",
+      "title": "Coconut Grove Resort",
+      "description": "A laid-back resort surrounded by coconut groves, featuring an outdoor pool, spa, and local cuisine.",
+      "price": 4200,
+      "latitude": 10,
+      "longitude": 76,
+      "rating": 4.3,
+      "facilities": [
+        "Free WiFi",
+        "Swimming Pool",
+        "AC"
+      ],
+      "image": "https://picsum.photos/id/1021/800/600"
+    },
+    {
+      "id": "h20",
+      "title": "The Executive Suites",
+      "description": "Designed for business travelers, featuring spacious suites, high-speed internet, and a dedicated workspace.",
+      "price": 6800,
+      "latitude": 19,
+      "longitude": 72.8,
+      "rating": 4.5,
+      "facilities": [
+        "Free WiFi",
+        "Gym",
+        "AC",
+        "Bar"
+      ],
+      "image": "https://picsum.photos/id/1022/800/600"
+    }
+  ]
+}
